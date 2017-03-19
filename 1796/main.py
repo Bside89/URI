@@ -1,4 +1,8 @@
+# URI Online Judge | 1796
+# Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1796
+
 __author__ = 'darkwolf'
+
 
 y = n = int(0)
 q = int(input())

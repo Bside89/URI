@@ -4,7 +4,8 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 
 /**
- * URI 1068.
+ * URI Online Judge | 1068
+ * Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1068
  *
  * @author Bruno Santos
  */

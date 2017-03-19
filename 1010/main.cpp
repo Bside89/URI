@@ -1,7 +1,11 @@
+// URI Online Judge | 1010
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
+
 #include <iostream>
 #include <iomanip>
 
 using namespace std;
+
 
 int main() {
 

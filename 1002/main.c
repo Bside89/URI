@@ -1,16 +1,8 @@
+// URI Online Judge | 1002
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1002
+
 #include <stdio.h>
 
-/*
-ENTRADAS (TESTE):
-2.00
-100.64
-150.00
-
-SAÍDAS (TESTE):
-A=12.5664
-A=31819.3103
-A=70685.7750
-*/
 
 int main() {
 

@@ -1,3 +1,6 @@
+# URI Online Judge | 1019
+# Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1019
+
 __author__ = 'darkwolf'
 
 
@@ -11,4 +14,3 @@ while time >= 60:
     time -= 60
 seconds = time
 print("%i:%i:%i" % (hours, minutes, seconds))
-

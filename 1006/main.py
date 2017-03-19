@@ -1,3 +1,6 @@
+# URI Online Judge | 1006
+# Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1006
+
 __author__ = 'bside_000'
 
 

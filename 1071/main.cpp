@@ -1,3 +1,6 @@
+// URI Online Judge | 1071
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1071
+
 #include <iostream>
 
 using namespace std;

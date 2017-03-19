@@ -1,3 +1,7 @@
+// URI Online Judge | 1472
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1472
+
+
 #include <iostream>
 
 using namespace std;

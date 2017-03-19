@@ -1,4 +1,8 @@
+// URI Online Judge | 1005
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1005
+
 #include <stdio.h>
+
 
 int main() {
 

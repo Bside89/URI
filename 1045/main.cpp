@@ -1,3 +1,6 @@
+// URI Online Judge | 1045
+// Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1045
+
 #include <iostream>
 
 using namespace std;

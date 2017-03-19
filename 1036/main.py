@@ -1,3 +1,6 @@
+# URI Online Judge | 1036
+# Link: https://www.urionlinejudge.com.br/judge/pt/problems/view/1036
+
 __author__ = 'darkwolf'
 
 
